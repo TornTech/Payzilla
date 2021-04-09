@@ -1,10 +1,10 @@
-# Peoplezilla
+# Payzilla
 
 ## Making payroll easy
 
-Peoplezilla allows Human Resources and Finance departments keep track of employees, payroll costs, payroll budgets, and employee status.
+Payzillaallows Human Resources and Finance departments keep track of employees, payroll costs, payroll budgets, and employee status.
 
-*With Peoplezilla, you can*:
+*With Payzilla you can*:
 - Keep track of every employee in your company
 - Keep track of employee hours worked
 - Keep track of employee hourly wages and annual salaries
