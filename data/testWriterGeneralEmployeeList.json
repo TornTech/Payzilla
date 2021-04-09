@@ -1,0 +1,23 @@
+{"employees": [
+    {
+        "hourlyStatus": true,
+        "totalPaidToEmployee": 123456,
+        "name": "Brian",
+        "currentOwnedToEmployee": 445,
+        "wage": 30
+    },
+    {
+        "hourlyStatus": false,
+        "totalPaidToEmployee": 0,
+        "name": "Bob",
+        "currentOwnedToEmployee": 0,
+        "wage": 55000
+    },
+    {
+        "hourlyStatus": false,
+        "totalPaidToEmployee": 200,
+        "name": "Ashley",
+        "currentOwnedToEmployee": 25000,
+        "wage": 110000
+    }
+]}

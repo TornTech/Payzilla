@@ -1,0 +1,23 @@
+{"employees": [
+    {
+        "hourlyStatus": true,
+        "totalPaidToEmployee": 16000,
+        "name": "Kyle Smith",
+        "currentOwnedToEmployee": 400,
+        "wage": 40
+    },
+    {
+        "hourlyStatus": false,
+        "totalPaidToEmployee": 50996,
+        "name": "Felix Grund",
+        "currentOwnedToEmployee": 0,
+        "wage": 350000
+    },
+    {
+        "hourlyStatus": true,
+        "totalPaidToEmployee": 0,
+        "name": "Bob Johnson",
+        "currentOwnedToEmployee": 0,
+        "wage": 85
+    }
+]}

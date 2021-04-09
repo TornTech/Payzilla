@@ -1,0 +1,37 @@
+{"employees": [
+    {
+        "hourlyStatus": false,
+        "totalPaidToEmployee": 0,
+        "name": "Ben",
+        "currentOwnedToEmployee": 8190,
+        "wage": 100000
+    },
+    {
+        "hourlyStatus": true,
+        "totalPaidToEmployee": 0,
+        "name": "Kyle",
+        "currentOwnedToEmployee": 16000,
+        "wage": 40
+    },
+    {
+        "hourlyStatus": false,
+        "totalPaidToEmployee": 100,
+        "name": "Jordana",
+        "currentOwnedToEmployee": 846,
+        "wage": 103000
+    },
+    {
+        "hourlyStatus": true,
+        "totalPaidToEmployee": 52000,
+        "name": "Alex",
+        "currentOwnedToEmployee": 0,
+        "wage": 15
+    },
+    {
+      "hourlyStatus": true,
+      "totalPaidToEmployee": 52000,
+      "name": "Alex",
+      "currentOwnedToEmployee": 0,
+      "wage": 15
+    }
+]}
